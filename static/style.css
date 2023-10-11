@@ -1,0 +1,61 @@
+.top {
+    padding-top: 80px;
+    background-image: url(https://cdn.wallpapersafari.com/21/61/zkNgu4.jpg);
+    background-size: cover;
+}
+
+.copyright {
+    color: darkblue;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.contact {
+    align-items: center;
+    text-align: left;
+}
+
+.maps {
+    border: solid #e8e8e8;
+    width: 100%;
+    height: 300px;
+}
+
+.alamat {
+    padding-left: 15px;
+    padding-top: 30px;
+}
+
+.maps {
+    margin-top: 70px;
+
+}
+
+.sosmed {
+    background-color: #e8e8e8;
+}
+
+.icon {
+    image-rendering: auto;
+}
+
+.pp{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bio {
+    padding-left: 200px;
+}
+
+.home {
+    color: white;
+    width: auto;
+    height: 700px;
+    margin-top: 50px;
+    background-image: url(https://wallpapers.com/images/featured/grey-aesthetic-vmo28eqtpjjhfitj.jpg);
+    background-size: cover;
+}
